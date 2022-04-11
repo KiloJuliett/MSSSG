@@ -1,0 +1,26 @@
+{
+    "/": {
+        "action": "RESOURCE",
+        "path": "src/www/index.html",
+        "type": "application/msssg+xml;charset=UTF-8",
+        "cache": "NONE"
+    },
+    "/a": {
+        "action": "PERMALINK",
+        "path": "src/www/style.css",
+        "type": "text/css;charset=UTF-8",
+        "cache": "NONE"
+    },
+    "/humans.txt": {
+        "action": "RESOURCE",
+        "path": "src/www/humans.txt.html",
+        "type": "application/msssg+xml;charset=UTF-8",
+        "cache": "NONE"
+    },
+    "~notfound": {
+        "action": "RESOURCE",
+        "path": "src/www/notfound.html",
+        "type": "application/msssg+xml;charset=UTF-8",
+        "cache": "SHORT"
+    }
+}
